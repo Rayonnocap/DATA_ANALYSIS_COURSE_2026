@@ -14,7 +14,7 @@
 
 **Клонируем репозиторий куда угодно и переходим в него:**
 ```sh
-git clone 
+git clone https://github.com/Rayonnocap/DATA_ANALYSIS_COURSE_2026.git
 cd DATA_ANALYSIS_COURSE_2026
 ```
 
