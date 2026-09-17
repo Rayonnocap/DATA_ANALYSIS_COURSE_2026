@@ -27,6 +27,8 @@ pip install -r requirements.txt.txt
 ```
 
 **Запускаем программу:**
+**DA_TASK1_PVSU.py.py** - _сама программа_,
+**data_example.csv** - _тестовый файл из примера_
 ```sh
 python3 DA_TASK1_PVSU.py.py data_example.csv
 ```
