@@ -18,6 +18,14 @@ git clone
 cd DATA_ANALYSIS_COURSE_2026
 ```
 
+**Устанавливаем зависимости:**
+Удобнее Будет делать в виртуальном окружении как в примере
+```sh
+python3 -m venv .
+source ./bin/activate
+pip install -r requirements.txt.txt
+```
+
 **Запускаем программу:**
 ```sh
 python3 DA_TASK1_PVSU.py.py data_example.csv
